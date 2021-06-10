@@ -2886,9 +2886,9 @@ getpass@^0.1.1:
     assert-plus "^1.0.0"
 
 glob-parent@^5.0.0:
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/glob-parent/-/glob-parent-5.0.0.tgz#1dc99f0f39b006d3e92c2c284068382f0c20e954"
-  integrity sha512-Z2RwiujPRGluePM6j699ktJYxmPpJKCfpGA13jz2hmFZC7gKetzrWvg5KN3+OsIFmydGyZ1AVwERCq1w/ZZwRg==
+  version "5.1.2"
+  resolved "https://registry.yarnpkg.com/glob-parent/-/glob-parent-5.1.2.tgz#869832c58034fe68a4093c17dc15e8340d8401c4"
+  integrity sha512-AOIgSQCepiJYwP3ARnGx+5VnTu2HBYdzbGP45eLw1vr3zB3vZLeyed1sC9hnbcOc9/SrMyM5RPQrkGz4aS9Zow==
   dependencies:
     is-glob "^4.0.1"
 
@@ -5413,11 +5413,6 @@ react-native-easy-grid@0.2.2:
   integrity sha512-MlYrNIldnEMKn6TVatQN1P64GoVlwGIuz+8ncdfJ0Wq/xtzUkQwlil8Uksyp7MhKfENE09MQnGNcba6Mx3oSAA==
   dependencies:
     lodash "^4.17.15"
-
-react-native-floating-labels@^1.1.9:
-  version "1.1.9"
-  resolved "https://registry.yarnpkg.com/react-native-floating-labels/-/react-native-floating-labels-1.1.9.tgz#d6f096a34f08395c3c7180de112e2769e2eb8ff2"
-  integrity sha512-fTQ+hhxr8wzv7JAnY9wlPRMLsQEFHiMC7G1tIKuEabYJjkhfRODmjeBT0XOPc4CxnCs8P5PplPww22bfJoNhYA==
 
 react-native-gesture-handler@^1.4.1:
   version "1.4.1"
